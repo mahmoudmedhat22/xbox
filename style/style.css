@@ -1,0 +1,266 @@
+body{
+    /* background-image: url(https://assets.xboxservices.com/assets/d5/89/d589adb3-c58d-420d-85e1-c383b8ea875d.jpg?n=PCGP_Super-Hero-1400_2-2-23_1920x1080.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+}
+.header{
+    background-color: rgb(8, 8, 8);
+    width: 100%;
+    position:fixed;
+    top: 0;
+    left: 0;
+    height: 45px;
+    z-index:3 ;
+}
+.img1{
+    width: 90px;
+    margin-left: 50px;
+    margin-top: 6px;
+    background-color: black;
+    float: left;
+    height: 50%;
+    margin-top: 13px;
+    width: 80px;
+    outline-offset: -2px;
+}
+.m{
+    width: 40px;
+    height: 25px;
+    margin-left: 200px;
+    margin-top: 6px;
+    float: left;
+    height: 53%;
+    margin-top: 13px;
+    width: 100px;
+    outline-offset: -2px;
+}
+.cover1{
+    background-color: black;
+    margin-right:-10px;
+}
+.cover{
+    height: 1000px;
+ width: 100%;
+ margin-left: -20px ;
+}
+    .header2{
+        background-color: rgb(8, 8, 8);
+        width: 100%;
+        position: fixed;
+        margin-top: 30px;
+        left: 0;
+        height: 55px;
+        opacity: .8;
+        z-index: 3;
+    }
+.heading{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 200px;
+    height: 60px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 10px;
+    z-index: 1;
+}
+.head{
+    margin-top:-800px;
+    margin-left: 90px;
+    position:absolute;
+z-index: 2;
+float: left;
+}
+.head1{
+    width: 470px;
+}
+.p1{
+    color: white;
+    width: 470px;
+    font-weight: bold;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+    line-height: 25px;
+    margin-top: 60px;
+}
+.btn1{
+    background-color: greenyellow;
+    color: green;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    width: 240px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-top: 10PX;
+}
+.p2{
+    color: white;
+    width: 470px;
+    font-weight: bold;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+    line-height: 25px;
+    margin-top: 30px;
+}
+.big{
+    margin-top: -300px;
+    height:700PX ;
+    width: 100%;
+    z-index: 2;
+    position: absolute;
+}
+.big1{
+    color: white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    z-index: 2;
+    
+}
+.game1{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 500px;
+    margin-left: 190px;
+    margin-top: 70px;
+    border-radius: 20px;
+    float: left;
+    background-image: url(../images/Minecraft_cover.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.a{
+    margin-left: 50px;
+    margin-top: 400px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.b{
+    font-size: small;
+    margin-top: -20px;
+    margin-left: 50px;
+    color: rgb(236, 236, 236);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.game2{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: 70px;
+    border-radius: 20px;
+    float: left;
+    background-image: url(../images/pg_UX1000_.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.c{
+    margin-left: 50px;
+    margin-top: 400px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.d{
+    font-size: small;
+    margin-top: -20px;
+    margin-left: 50px;
+    color: rgb(236, 236, 236);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.game3{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: 70px;
+    border-radius: 20px;
+    float: left;
+    background-image: url(../images/MV5BMWE1NjRiMGEtMTUyMy00ODVkLWE2Og_U0_.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.e{
+    margin-left: 50px;
+    margin-top: 400px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.f{
+    font-size: small;
+    margin-top: -20px;
+    margin-left: 50px;
+    color: rgb(236, 236, 236);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.game4{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: 70px;
+    border-radius: 20px;
+    float: left;
+    background-image: url(../images/acm-boxshot.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.g{
+    margin-left: 50px;
+    margin-top: 400px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.h{
+    font-size: small;
+    margin-top: -20px;
+    margin-left: 50px;
+    color: rgb(236, 236, 236);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.game5{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: 70px;
+    border-radius: 20px;
+    float: left;
+    background-image: url(https://store-images.s-microsoft.com/image/apps.47017.13535329055099418.082ed7bb-5194-4ea8-9fa9-c54f61a9ec1d.79e4743e-2f58-462a-b4d3-5072c87efbe0);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.i{
+    margin-left: 50px;
+    margin-top: 400px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.j{
+    font-size: small;
+    margin-top: -20px;
+    margin-left: 50px;
+    color: rgb(236, 236, 236);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.cover2{
+    width: 100%;
+    margin-top: 1000px;
+    height: 100%;
+    background-image: url(https://assets.xboxservices.com/assets/3f/26/3f267e52-966a-46a8-91f1-20798928d52a.jpg?n=043952945_Image-1084_1920x945.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.k{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    height: 60px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 10px;
+    z-index: 1;
+}
